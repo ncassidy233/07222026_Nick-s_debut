@@ -1,0 +1,102 @@
+
+{% if section.settings.section_id.size > 0 %}
+  <!-- PageFlyGlobalSection -->
+  {% render 'pagefly-main-js' %}
+  {% render 'pagefly-main-css' %}
+  {% include section.settings.section_id %}
+{% else %}
+  
+    {% if request.design_mode %}
+      <style>.pf-ph{font-size:14px!important;background:#fafafa;padding:20px;text-align:center;border:1px solid #f0f0f0;border-radius:4px;margin:15px}.pf-ph span{display:block;background:#e6f7ff;padding:8px 15px;border:1px solid #91d5ff}</style>
+      <div class="pf-ph">
+        <h3>PageFly Section</h3>
+        <span>No section selected. Please select your section from the list</span>
+      </div>
+    {% endif %}
+  
+{% endif %}
+
+{% schema %}
+{
+  "name": "PageFly Section",
+  "settings": [
+    {
+      "id": "section_id",
+      "type": "select",
+      "label": "Sections",
+      "options": [
+        {
+          "label": "Select section",
+          "value": ""
+        },
+        {
+          "label": "Wood Panel Finish Option Section",
+          "value": "pf-c32c4257"
+        },
+        {
+          "label": "Hardware Finishes 2023",
+          "value": "pf-b6874863"
+        },
+        {
+          "label": "Wine Panel Collection Blog",
+          "value": "pf-8ed45d39"
+        },
+        {
+          "label": "Collection blog posts",
+          "value": "pf-74e6d181"
+        },
+        {
+          "label": "Leather Panel Finish Option Section",
+          "value": "pf-43d5bd29"
+        },
+        {
+          "label": "High Gloss Panel Finish Option Section",
+          "value": "pf-c5434a20"
+        },
+        {
+          "label": "Textured Panel Finish Option Section",
+          "value": "pf-325627a4"
+        },
+        {
+          "label": "Hero",
+          "value": "pf-4c0b4436"
+        },
+        {
+          "label": "Wine Display Systems",
+          "value": "pf-f66ebf47"
+        },
+        {
+          "label": "Gallery New",
+          "value": "pf-daa0449f"
+        },
+        {
+          "label": "Breadcrumb",
+          "value": "pf-97fca5dc"
+        },
+        {
+          "label": "Gallery",
+          "value": "pf-97cc4cbf"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "Find and edit your section on the [section listing](https://kessick-wine-as-art.myshopify.com/admin/apps/pagefly/sections)"
+    },
+    {
+      "type": "paragraph",
+      "content": "To add block to a section, please use the App Block element on PageFly section editor."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "@app"
+    }
+  ],
+  "presets": [
+    {
+      "name": "PageFly Section"
+    }
+  ]
+}
+{% endschema %}
