@@ -1,8 +1,60 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "pf-5655be0d": {
       "type": "pf-5655be0d",
-      "settings": {}
+      "settings": {
+        "pf_673420fa_value": "White oak a very hard wood species and has a medium to course wood grain texture. Quarter sawn and rift sawn white oak have the unique characteristic of being well suited for traditional and contemporary wine room applications. Espresso stained white oak can have an aged, traditional feel, while clear finished or gray stain can range from transitional to very modern.",
+        "pf_64309234_value": "Black American walnut continues to be the standard for elegant transitional and contemporary wine storage systems. With a straight to irregular grain pattern, this light textured wood has a rich natural brown tone mixed with the typical sapwood that defines walnut wood. Wood tones can range from gray to purple but largely stay in the chocolate brown family.",
+        "pf_5cac6367_value": "White oak is a heavily grained wood that varies in color from pale yellow to pale brown. The ‘rift sawn’ graining of very uniform straight lines is typical in this wood pattern. Quarter sawn wood characteristics are sometimes present and can exhibit unique ‘flecks’ in the grain pattern and is commonly understood to be a quality feature of white oak.",
+        "pf_7f752a12_value": "Nature Plus Textured Panels are heavily embossed, Italian architectural substrates that mimic a natural organic look and feel.  These stunning panels are ideally suited to secure Wine As Art hardware and are available in a wide variety of solid and decorative colors.",
+        "pf_92aab4b3_value": "Brillanté Collection is a collection of high gloss lacquered architectural panels that have a 90% gloss level lacquered finish. These stunning panels are ideally suited to secure Wine As Art hardware and are available in a wide variety of solid and decorative colors.",
+        "pf_34ed8aa9_value": "Walnut is well known for the smooth textures and natural luster when finished with a clear satin topcoat. Stains penetrate walnut wood well and can achieve a dark deep color while lightly exhibiting the wood grain.",
+        "pf_a887624c_value": "The Wine As Art panel system incorporates a back wall plate, decorative top panel and the Wine As Art wine hardware to produce a structurally sound and visually stunning way to store and display wine.",
+        "pf_31e4fdcc_value": "Brillante Antracita Gray 611 - High Gloss",
+        "pf_550aa145_value": "Brillante White 619 - High Gloss&nbsp;",
+        "pf_30f10bd1_value": "N+ Dark Concrete - Plaster Texture",
+        "pf_785bb605_value": "Brillante Black 610 - High Gloss",
+        "pf_06deea52_value": "N+ Night UB02 – Plaster Texture",
+        "pf_0857501d_value": "N+ Maya FA33 – Leather Texture",
+        "pf_1825ddcc_value": "N+ Concrete - Plaster Texture",
+        "pf_220c5cd6_value": "WHITE OAK <br>ESPRESSO FINISH",
+        "pf_ba20aae3_value": "High Gloss Finishes Available",
+        "pf_1af32c21_value": "Textured Finishes Available",
+        "pf_3a297043_value": "N+ Bianco - Leather Texture",
+        "pf_93652d4b_value": "WHITE OAK <br>CLEAR FINISH",
+        "pf_a4159234_value": "N+ Nebia - Leather Texture",
+        "pf_e56a08ec_value": "WALNUT <br>ESPRESSO FINISH",
+        "pf_3d400d39_value": "N+ Bardini - Wood Texture",
+        "pf_80dd50f3_value": "N+ Acerno - Wood Texture",
+        "pf_ff45f87b_value": "WHITE OAK <br>UNFINISHED",
+        "pf_854e469d_value": "Sapele Spanish Mahogany",
+        "pf_86e82f1b_value": "WALNUT <br>CLEAR FINISH",
+        "pf_cb372935_value": "Sapele Espresso Finish",
+        "pf_dbbfda64_value": "N+ Nero - Wood Texture",
+        "pf_13d7d1ab_value": "WALNUT <br>UNFINISHED",
+        "pf_219d66e6_value": "Click to view larger",
+        "pf_4cdfcd13_value": "White Oak, rift sawn",
+        "pf_4fb8658f_value": "Panel Finish Options",
+        "pf_a98c3b47_value": "Click to view larger",
+        "pf_e3d8669a_value": "Click to view larger",
+        "pf_28a8891a_value": "Sapele Clear Finish",
+        "pf_6abec7a8_value": "Wood Panel Options",
+        "pf_8a58bf9e_value": "Sapele Unfinished",
+        "pf_583a1c0c_value": "See More Options",
+        "pf_d35b3b04_value": "See More Options",
+        "pf_3d2db865_value": "White Oak Gray",
+        "pf_1bfbcb50_value": "Walnut Gray",
+        "pf_fa49c506_value": "Walnut"
+      }
     }
   },
   "order": [
