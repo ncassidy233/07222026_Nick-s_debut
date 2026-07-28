@@ -1,1 +1,25 @@
-{"sections":{"pf-27e5fc2b":{"type":"pf-27e5fc2b","settings":{}}},"order":["pf-27e5fc2b"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-27e5fc2b": {
+      "type": "pf-27e5fc2b",
+      "settings": {
+        "pf_4462adfe_value": "Shop Our Products",
+        "pf_67919791_value": "View Details",
+        "pf_62751da8_value": "Categories",
+        "pf_beb25e00_value": "Categories"
+      }
+    }
+  },
+  "order": [
+    "pf-27e5fc2b"
+  ]
+}

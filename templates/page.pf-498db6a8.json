@@ -1,1 +1,34 @@
-{"sections":{"pf-498db6a8":{"type":"pf-498db6a8","settings":{}}},"order":["pf-498db6a8"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-498db6a8": {
+      "type": "pf-498db6a8",
+      "settings": {
+        "pf_eb4ba5a8_value": "<a href=\"https://tel:8642971911\" target=\"_self\">864-297-1911</a><br><a href=\"https://mailto:wineasart@kessick.com\" target=\"_self\">wineasart@kessick.com</a>",
+        "pf_a8ccd344_value": "Wine As Art by Kessick<br>135 Commerce Center<br>Greenville, SC 29615",
+        "pf_6eb5898f_label_text": "How did you hear about Kessick?",
+        "pf_a62cc1b6_placeholder": "Email Address",
+        "pf_eab7719e_placeholder": "Your Message",
+        "pf_09043d52_placeholder": "First Name",
+        "pf_a8f6f794_value": "Contact Us",
+        "pf_3d526c41_label_text": "Last Name",
+        "pf_6c41d8c2_placeholder": "Last Name",
+        "pf_91fe0904_label_text": "Full Name",
+        "pf_b6b8eab7_label_text": "Message",
+        "pf_31e14ae6_value": "Submit",
+        "pf_c267a62c_label_text": "Email"
+      }
+    }
+  },
+  "order": [
+    "pf-498db6a8"
+  ]
+}
