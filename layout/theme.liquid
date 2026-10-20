@@ -15,6 +15,14 @@
 
   <script src="https://assets.adobedtm.com/175f7caa2b90/b7c66c214d46/launch-7bca02af37d7.min.js" async></script>
 
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NCDNJ8JD');</script>
+<!-- End Google Tag Manager -->
+
   {%- liquid
     assign seo_robots = 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1'
     if request.page_type == 'search' or request.page_type == 'cart' or request.page_type == 'password' or request.page_type == 'captcha' or request.page_type == 'customers/login' or request.page_type == 'customers/register' or request.page_type == 'customers/account' or request.page_type == 'customers/addresses' or request.page_type == 'customers/order' or request.page_type == 'customers/reset_password' or request.page_type == 'customers/activate_account'
@@ -261,6 +269,11 @@
       "cartChangeUrl": "{{ routes.cart_change_url }}"
     }
   </script>
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCDNJ8JD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
   <ul hidden>
     <li id="a11y-refresh-page-message">{{ 'general.accessibility.refresh_page' | t }}</li>
